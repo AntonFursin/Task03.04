@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Maps/Mediterranean.umap",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Maps/Mediterranean_BuiltData.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_BigVessel.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Blind.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_SmallVessel.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_WickerHat1.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_WickerHat.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_FireplaceTools.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Fireplace.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Exterior.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Enviroment.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Dish.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Cairn.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Beam1.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Meshes/SM_Beam.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Hats_ORM.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Hats_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Hats_BC.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Floor_R.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Floor_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Floor_BC.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_FireplaceTools_ORM.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_FireplaceTools_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Fireplacetools_BC.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Fireplace_ORM.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_FirePlace_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_FirePlace_BC.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Exterior.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_cliffCubemap.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Blind_ORM.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Blind_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Blind_BC.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Beams_ORM.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Beams_N.uasset",
+				"C:/Games/Task03.04/MyProject/Content/Mediterranean/Textures/T_Beams_BC.uasset"
+			]
+		}
+	]
+}
